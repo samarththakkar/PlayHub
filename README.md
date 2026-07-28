@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/150x150.png?text=PlayZen" alt="PlayZen Logo" width="150" height="150" />
+  <!-- <img src="https://via.placeholder.com/150x150.png?text=PlayZen" alt="PlayZen Logo" width="150" height="150" /> -->
   <h1>PlayZen 🎬</h1>
   <p><em>A production-grade, full-stack YouTube clone built with React, Node.js, Express, and MongoDB</em></p>
   
